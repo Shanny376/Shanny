@@ -1,0 +1,26 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+        content="width=device-width,
+         initial-scale=1.0">
+         <title>Start Bootstrap</title>
+         <link rel="stylesheet"href="style.css">
+    </head>
+    <body style="font-family: Arial,
+    sans-serif,margin:0;color:#333;">
+
+    <nav style="background-color:
+    #414343;color:#fff;padding:
+    1rem;display: flex;justify-content:
+    space-between;">
+    <div style="font-size: 1.5rem;">Start
+        Bootstrap</div>
+        <div style="margin-left: 1rem;">
+            <a href="#" style="color: #fff;
+            text-decoration: none;margin-left:
+            1re;>About</a>
+            <a href="#"style="color:#fff;
+            text-decoration:none;margin-
+            " ;"
+
